@@ -1,0 +1,1026 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:multidex:1.0.3] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1b682c72d1b98987a70aca7efb20d96a/multidex-1.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0855270db92e20bf701a5ced83206545/play-services-12.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0f634ead05c565056044661d10819b33/play-services-cast-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/286869ff9b9e674f1ccc4481220cb6db/play-services-ads-12.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/71aa02cc5e2330aad6eda6e090c7685d/play-services-tagmanager-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fd83e25b6eae44cc17a4dfd7a0509a81/play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/155d0a66416d40f8c365103106d23f80/play-services-auth-api-phone-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e075fbca4a9df3b213dff0276c0e2355/play-services-auth-base-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/60f6d07533ce973f3b7cf8655fbe489e/firebase-config-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9433c08234ee3a38f3de1dd067811535/play-services-awareness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a89bd160363a4e1aaa8c56ef13d48d65/play-services-games-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a45852d9dcaf48f880a426635a9e0962/play-services-drive-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8d21142ceb59458626a660ce30e5c256/play-services-fido-12.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/457dc6275345b374c01ee717a492d964/firebase-dynamic-links-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9b65738629421bea122bb79893dbe03e/play-services-fitness-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5677f66cbaebc92ecae207c5644d2f92/firebase-appindexing-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/132b278041f6243b4631cbed1e5c4b4e/play-services-wallet-12.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ef74ade1448a56d0edf47a8a2667f920/play-services-identity-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b95ce902a424a84d0d2bc63ffb06d4b0/play-services-instantapps-12.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4050cd9305fa570325dd16617174f275/play-services-location-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/09f2e49cd77d9e07716171f93ae2a673/play-services-places-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ae0e381fa9b6aa22b0274a575de18298/play-services-nearby-12.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/40296627281750b1c7b7cf24141eff7f/play-services-panorama-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/29f62ac9467ee5a1165e59e34bb0573d/play-services-plus-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e81d3e444ae9d9214b78aa803d894968/play-services-safetynet-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/873f193f161acf8cbcb08675ee58d9eb/play-services-vision-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fac6a50d27c50c71a17cdfaafb3942fc/play-services-vision-common-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/67c67d43dc04ee9578b3fa174e3c97f1/play-services-wearable-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/55d0f4216eda155c066fcab03a6a18c1/firebase-crash-12.0.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a61e8df0f61a0cd119f61c252a6d36c/firebase-database-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2c3de249a8f4b19195bc6c191040542e/firebase-database-connection-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/953aa69fdf6e24f0f14ca6e0d5d70647/firebase-storage-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b7d3f5b58d81c7b088b4c648c4365ce7/firebase-storage-common-12.0.1/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5126947ec4d18d36a1e1655f37a9bffc/play-services-gass-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a2b1259d4a32c53a79c8808f30874ad/play-services-tasks-12.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/dd66d81f375591a5b6ec6abca01a0854/play-services-basement-12.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:palette-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6671e36554fa4f4cc1da1d954a160a15/palette-v7-26.1.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c1e59d821ea64115e81bcdbbede579c4/play-services-ads-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8cbbb7cd2262ab05c4d265555e6dcfb6/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c41317645daa95d78df7a5d0ce6fa907/play-services-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/532ec424d0e49126a5a8d81e7cc53de6/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/92a54e47b120dd57b4bfd3cfcf63f208/play-services-appinvite-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/06319b00bf8cf5a481724de91d61280b/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c37a0bc42073f5dc3cf8efd062e804e4/play-services-auth-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1d37458dbc3b09f34f10c4f971e891b4/play-services-base-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8c3094e7be38a9ead8c5d07b579ce42e/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/42cf3f40cda69f6571a7d6ca23de0c9a/play-services-cast-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/57d873ef994a06eaf17e65dca09a774e/play-services-basement-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b86424940feaa602cd9248484d1c7ef4/firebase-config-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4cb70d51f5cedd0299c77311acb5473c/play-services-awareness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/81d2cabc3c0f9a63b93897bce4025645/firebase-crash-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/248ae513d8ab20948eed7156a73bec87/play-services-drive-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/da089509d0e0a1e68ece9397765c20e3/play-services-fido-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5c21b051c32dc2aeeef390610319c55e/firebase-auth-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/46f7c47714255573bd84d4c04ca2299f/firebase-database-connection-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/85336c5f6b969508406cf6f6e574d867/firebase-database-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1bfc053a850a421ccfc68c499a0829cb/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e6ccc308ed64963465959cf4619f5344/firebase-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c90871e60e9ae77722d7ebb4d2912361/firebase-messaging-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e2e9123edd435aabb17b37471e3fc1e0/firebase-storage-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b855164b0c9fb00018fb07502a539a36/firebase-storage-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/435153c3447669d4df7cfd4e7c73b477/firebase-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b942566427120f3165f28bc5444e59b3/play-services-fitness-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/77a8144b2cc75b776b9a6116b0fcd69e/play-services-games-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d5fd3821513ccaa3afd3c01ba6da9273/play-services-gass-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4f0183dc9c1afbe44d84095c3afb38d/play-services-gcm-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18898ee51888367cd482baca45c0edd/firebase-appindexing-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/bedd9318786f3155ce5d9b9131c726a6/play-services-identity-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/623d13a600277867200b003aae6d6d7b/play-services-iid-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1157a28bdb64c9dc009c7458366142e9/play-services-instantapps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5e13ef4c698fe507f37bee9983d7fbfb/play-services-location-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ca5d3b361cb9a3e3741bd0d020717d44/play-services-maps-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/39d5349e9654d7ba764955ccdab76c78/firebase-analytics-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b2753a1fd5aaa584fced032f4021237f/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/772f372e0d8ddc26058ba29020912951/play-services-nearby-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e177b4d7882ece08686076bf8c952e64/play-services-panorama-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/246b5b757b31901e2b68e1f89f1f5b32/play-services-places-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4e5974a1251e09985b882cab5214f38/play-services-plus-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/34f2e58a4b179a1d84e757ce6cdc1cdb/play-services-safetynet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7b11e0e56d0b518330c1a82ddd06a1d7/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/62f98730115c8997d247901b8c6a5118/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/26759b672cd12bdaae70b65db1523689/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/86b3ddf9f7459aee8e2e5579e489babc/play-services-tasks-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ad22fc20894f555e5622c42aca1d0fb3/play-services-vision-common-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a55d8d6e91627b2bb0248f262df877e9/play-services-vision-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b42d0e4a6d6dbd79c3c1a88a5b22ce2a/play-services-wallet-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/969b47ef8280295dda91a0dd4024ed88/play-services-wearable-license-12.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:17:1-30:12
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:8:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/55d0f4216eda155c066fcab03a6a18c1/firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/55d0f4216eda155c066fcab03a6a18c1/firebase-crash-12.0.1/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ae0e381fa9b6aa22b0274a575de18298/play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ae0e381fa9b6aa22b0274a575de18298/play-services-nearby-12.0.1/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:13:22-76
+uses-feature#0x00020000
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:16:5-18:34
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:18:9-32
+application
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:19:5-42:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0855270db92e20bf701a5ced83206545/play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0855270db92e20bf701a5ced83206545/play-services-12.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0f634ead05c565056044661d10819b33/play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0f634ead05c565056044661d10819b33/play-services-cast-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fd83e25b6eae44cc17a4dfd7a0509a81/play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fd83e25b6eae44cc17a4dfd7a0509a81/play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/60f6d07533ce973f3b7cf8655fbe489e/firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/60f6d07533ce973f3b7cf8655fbe489e/firebase-config-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9433c08234ee3a38f3de1dd067811535/play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9433c08234ee3a38f3de1dd067811535/play-services-awareness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a89bd160363a4e1aaa8c56ef13d48d65/play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a89bd160363a4e1aaa8c56ef13d48d65/play-services-games-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a45852d9dcaf48f880a426635a9e0962/play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a45852d9dcaf48f880a426635a9e0962/play-services-drive-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8d21142ceb59458626a660ce30e5c256/play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8d21142ceb59458626a660ce30e5c256/play-services-fido-12.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/457dc6275345b374c01ee717a492d964/firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/457dc6275345b374c01ee717a492d964/firebase-dynamic-links-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9b65738629421bea122bb79893dbe03e/play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9b65738629421bea122bb79893dbe03e/play-services-fitness-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5677f66cbaebc92ecae207c5644d2f92/firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5677f66cbaebc92ecae207c5644d2f92/firebase-appindexing-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ef74ade1448a56d0edf47a8a2667f920/play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ef74ade1448a56d0edf47a8a2667f920/play-services-identity-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4050cd9305fa570325dd16617174f275/play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4050cd9305fa570325dd16617174f275/play-services-location-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/09f2e49cd77d9e07716171f93ae2a673/play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/09f2e49cd77d9e07716171f93ae2a673/play-services-places-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ae0e381fa9b6aa22b0274a575de18298/play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ae0e381fa9b6aa22b0274a575de18298/play-services-nearby-12.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/40296627281750b1c7b7cf24141eff7f/play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/40296627281750b1c7b7cf24141eff7f/play-services-panorama-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/29f62ac9467ee5a1165e59e34bb0573d/play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/29f62ac9467ee5a1165e59e34bb0573d/play-services-plus-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e81d3e444ae9d9214b78aa803d894968/play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e81d3e444ae9d9214b78aa803d894968/play-services-safetynet-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/873f193f161acf8cbcb08675ee58d9eb/play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/873f193f161acf8cbcb08675ee58d9eb/play-services-vision-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fac6a50d27c50c71a17cdfaafb3942fc/play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fac6a50d27c50c71a17cdfaafb3942fc/play-services-vision-common-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/67c67d43dc04ee9578b3fa174e3c97f1/play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/67c67d43dc04ee9578b3fa174e3c97f1/play-services-wearable-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/55d0f4216eda155c066fcab03a6a18c1/firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/55d0f4216eda155c066fcab03a6a18c1/firebase-crash-12.0.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5126947ec4d18d36a1e1655f37a9bffc/play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5126947ec4d18d36a1e1655f37a9bffc/play-services-gass-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a2b1259d4a32c53a79c8808f30874ad/play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a2b1259d4a32c53a79c8808f30874ad/play-services-tasks-12.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/dd66d81f375591a5b6ec6abca01a0854/play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/dd66d81f375591a5b6ec6abca01a0854/play-services-basement-12.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:palette-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6671e36554fa4f4cc1da1d954a160a15/palette-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6671e36554fa4f4cc1da1d954a160a15/palette-v7-26.1.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c1e59d821ea64115e81bcdbbede579c4/play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c1e59d821ea64115e81bcdbbede579c4/play-services-ads-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8cbbb7cd2262ab05c4d265555e6dcfb6/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8cbbb7cd2262ab05c4d265555e6dcfb6/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c41317645daa95d78df7a5d0ce6fa907/play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c41317645daa95d78df7a5d0ce6fa907/play-services-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/532ec424d0e49126a5a8d81e7cc53de6/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/532ec424d0e49126a5a8d81e7cc53de6/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/92a54e47b120dd57b4bfd3cfcf63f208/play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/92a54e47b120dd57b4bfd3cfcf63f208/play-services-appinvite-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/06319b00bf8cf5a481724de91d61280b/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/06319b00bf8cf5a481724de91d61280b/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c37a0bc42073f5dc3cf8efd062e804e4/play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c37a0bc42073f5dc3cf8efd062e804e4/play-services-auth-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1d37458dbc3b09f34f10c4f971e891b4/play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1d37458dbc3b09f34f10c4f971e891b4/play-services-base-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8c3094e7be38a9ead8c5d07b579ce42e/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8c3094e7be38a9ead8c5d07b579ce42e/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/42cf3f40cda69f6571a7d6ca23de0c9a/play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/42cf3f40cda69f6571a7d6ca23de0c9a/play-services-cast-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/57d873ef994a06eaf17e65dca09a774e/play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/57d873ef994a06eaf17e65dca09a774e/play-services-basement-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b86424940feaa602cd9248484d1c7ef4/firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b86424940feaa602cd9248484d1c7ef4/firebase-config-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4cb70d51f5cedd0299c77311acb5473c/play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4cb70d51f5cedd0299c77311acb5473c/play-services-awareness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/81d2cabc3c0f9a63b93897bce4025645/firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/81d2cabc3c0f9a63b93897bce4025645/firebase-crash-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/248ae513d8ab20948eed7156a73bec87/play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/248ae513d8ab20948eed7156a73bec87/play-services-drive-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/da089509d0e0a1e68ece9397765c20e3/play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/da089509d0e0a1e68ece9397765c20e3/play-services-fido-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5c21b051c32dc2aeeef390610319c55e/firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5c21b051c32dc2aeeef390610319c55e/firebase-auth-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/46f7c47714255573bd84d4c04ca2299f/firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/46f7c47714255573bd84d4c04ca2299f/firebase-database-connection-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/85336c5f6b969508406cf6f6e574d867/firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/85336c5f6b969508406cf6f6e574d867/firebase-database-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1bfc053a850a421ccfc68c499a0829cb/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1bfc053a850a421ccfc68c499a0829cb/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e6ccc308ed64963465959cf4619f5344/firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e6ccc308ed64963465959cf4619f5344/firebase-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c90871e60e9ae77722d7ebb4d2912361/firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c90871e60e9ae77722d7ebb4d2912361/firebase-messaging-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e2e9123edd435aabb17b37471e3fc1e0/firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e2e9123edd435aabb17b37471e3fc1e0/firebase-storage-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b855164b0c9fb00018fb07502a539a36/firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b855164b0c9fb00018fb07502a539a36/firebase-storage-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/435153c3447669d4df7cfd4e7c73b477/firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/435153c3447669d4df7cfd4e7c73b477/firebase-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b942566427120f3165f28bc5444e59b3/play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b942566427120f3165f28bc5444e59b3/play-services-fitness-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/77a8144b2cc75b776b9a6116b0fcd69e/play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/77a8144b2cc75b776b9a6116b0fcd69e/play-services-games-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d5fd3821513ccaa3afd3c01ba6da9273/play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d5fd3821513ccaa3afd3c01ba6da9273/play-services-gass-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4f0183dc9c1afbe44d84095c3afb38d/play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4f0183dc9c1afbe44d84095c3afb38d/play-services-gcm-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18898ee51888367cd482baca45c0edd/firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18898ee51888367cd482baca45c0edd/firebase-appindexing-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/bedd9318786f3155ce5d9b9131c726a6/play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/bedd9318786f3155ce5d9b9131c726a6/play-services-identity-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/623d13a600277867200b003aae6d6d7b/play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/623d13a600277867200b003aae6d6d7b/play-services-iid-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1157a28bdb64c9dc009c7458366142e9/play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1157a28bdb64c9dc009c7458366142e9/play-services-instantapps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5e13ef4c698fe507f37bee9983d7fbfb/play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5e13ef4c698fe507f37bee9983d7fbfb/play-services-location-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ca5d3b361cb9a3e3741bd0d020717d44/play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ca5d3b361cb9a3e3741bd0d020717d44/play-services-maps-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/39d5349e9654d7ba764955ccdab76c78/firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/39d5349e9654d7ba764955ccdab76c78/firebase-analytics-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b2753a1fd5aaa584fced032f4021237f/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b2753a1fd5aaa584fced032f4021237f/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/772f372e0d8ddc26058ba29020912951/play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/772f372e0d8ddc26058ba29020912951/play-services-nearby-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e177b4d7882ece08686076bf8c952e64/play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e177b4d7882ece08686076bf8c952e64/play-services-panorama-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/246b5b757b31901e2b68e1f89f1f5b32/play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/246b5b757b31901e2b68e1f89f1f5b32/play-services-places-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4e5974a1251e09985b882cab5214f38/play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4e5974a1251e09985b882cab5214f38/play-services-plus-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/34f2e58a4b179a1d84e757ce6cdc1cdb/play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/34f2e58a4b179a1d84e757ce6cdc1cdb/play-services-safetynet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7b11e0e56d0b518330c1a82ddd06a1d7/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7b11e0e56d0b518330c1a82ddd06a1d7/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/62f98730115c8997d247901b8c6a5118/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/62f98730115c8997d247901b8c6a5118/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/26759b672cd12bdaae70b65db1523689/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/26759b672cd12bdaae70b65db1523689/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/86b3ddf9f7459aee8e2e5579e489babc/play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/86b3ddf9f7459aee8e2e5579e489babc/play-services-tasks-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ad22fc20894f555e5622c42aca1d0fb3/play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ad22fc20894f555e5622c42aca1d0fb3/play-services-vision-common-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a55d8d6e91627b2bb0248f262df877e9/play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a55d8d6e91627b2bb0248f262df877e9/play-services-vision-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b42d0e4a6d6dbd79c3c1a88a5b22ce2a/play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b42d0e4a6d6dbd79c3c1a88a5b22ce2a/play-services-wallet-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/969b47ef8280295dda91a0dd4024ed88/play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/969b47ef8280295dda91a0dd4024ed88/play-services-wearable-license-12.0.1/AndroidManifest.xml:22:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:22:9-41
+	android:icon
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:23:9-40
+activity#edu.umb.cs443.MainActivity
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:30:27-74
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:34:9-36:15
+	android:value
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:35:13-68
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:34:20-69
+meta-data#com.google.android.gms.version
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:37:9-39:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/dd66d81f375591a5b6ec6abca01a0854/play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/dd66d81f375591a5b6ec6abca01a0854/play-services-basement-12.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:39:13-66
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:38:13-58
+uses-library#org.apache.http.legacy
+ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:41:9-88
+	android:required
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:41:61-85
+	android:name
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:41:23-60
+uses-sdk
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1b682c72d1b98987a70aca7efb20d96a/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1b682c72d1b98987a70aca7efb20d96a/multidex-1.0.3/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0855270db92e20bf701a5ced83206545/play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0855270db92e20bf701a5ced83206545/play-services-12.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0f634ead05c565056044661d10819b33/play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0f634ead05c565056044661d10819b33/play-services-cast-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/286869ff9b9e674f1ccc4481220cb6db/play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/286869ff9b9e674f1ccc4481220cb6db/play-services-ads-12.0.1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/71aa02cc5e2330aad6eda6e090c7685d/play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/71aa02cc5e2330aad6eda6e090c7685d/play-services-tagmanager-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fd83e25b6eae44cc17a4dfd7a0509a81/play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fd83e25b6eae44cc17a4dfd7a0509a81/play-services-tagmanager-v4-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/155d0a66416d40f8c365103106d23f80/play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/155d0a66416d40f8c365103106d23f80/play-services-auth-api-phone-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e075fbca4a9df3b213dff0276c0e2355/play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e075fbca4a9df3b213dff0276c0e2355/play-services-auth-base-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/60f6d07533ce973f3b7cf8655fbe489e/firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/60f6d07533ce973f3b7cf8655fbe489e/firebase-config-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9433c08234ee3a38f3de1dd067811535/play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9433c08234ee3a38f3de1dd067811535/play-services-awareness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a89bd160363a4e1aaa8c56ef13d48d65/play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a89bd160363a4e1aaa8c56ef13d48d65/play-services-games-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a45852d9dcaf48f880a426635a9e0962/play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a45852d9dcaf48f880a426635a9e0962/play-services-drive-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8d21142ceb59458626a660ce30e5c256/play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8d21142ceb59458626a660ce30e5c256/play-services-fido-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/457dc6275345b374c01ee717a492d964/firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/457dc6275345b374c01ee717a492d964/firebase-dynamic-links-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9b65738629421bea122bb79893dbe03e/play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/9b65738629421bea122bb79893dbe03e/play-services-fitness-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5677f66cbaebc92ecae207c5644d2f92/firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5677f66cbaebc92ecae207c5644d2f92/firebase-appindexing-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/132b278041f6243b4631cbed1e5c4b4e/play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/132b278041f6243b4631cbed1e5c4b4e/play-services-wallet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ef74ade1448a56d0edf47a8a2667f920/play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ef74ade1448a56d0edf47a8a2667f920/play-services-identity-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b95ce902a424a84d0d2bc63ffb06d4b0/play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b95ce902a424a84d0d2bc63ffb06d4b0/play-services-instantapps-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4050cd9305fa570325dd16617174f275/play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4050cd9305fa570325dd16617174f275/play-services-location-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/09f2e49cd77d9e07716171f93ae2a673/play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/09f2e49cd77d9e07716171f93ae2a673/play-services-places-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d85e5fed05c3bbb2df2b1799d61e024d/play-services-maps-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ae0e381fa9b6aa22b0274a575de18298/play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ae0e381fa9b6aa22b0274a575de18298/play-services-nearby-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/40296627281750b1c7b7cf24141eff7f/play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/40296627281750b1c7b7cf24141eff7f/play-services-panorama-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/29f62ac9467ee5a1165e59e34bb0573d/play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/29f62ac9467ee5a1165e59e34bb0573d/play-services-plus-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e81d3e444ae9d9214b78aa803d894968/play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e81d3e444ae9d9214b78aa803d894968/play-services-safetynet-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/873f193f161acf8cbcb08675ee58d9eb/play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/873f193f161acf8cbcb08675ee58d9eb/play-services-vision-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fac6a50d27c50c71a17cdfaafb3942fc/play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/fac6a50d27c50c71a17cdfaafb3942fc/play-services-vision-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/67c67d43dc04ee9578b3fa174e3c97f1/play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/67c67d43dc04ee9578b3fa174e3c97f1/play-services-wearable-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/55d0f4216eda155c066fcab03a6a18c1/firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/55d0f4216eda155c066fcab03a6a18c1/firebase-crash-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a61e8df0f61a0cd119f61c252a6d36c/firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a61e8df0f61a0cd119f61c252a6d36c/firebase-database-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2c3de249a8f4b19195bc6c191040542e/firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2c3de249a8f4b19195bc6c191040542e/firebase-database-connection-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/953aa69fdf6e24f0f14ca6e0d5d70647/firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/953aa69fdf6e24f0f14ca6e0d5d70647/firebase-storage-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b7d3f5b58d81c7b088b4c648c4365ce7/firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b7d3f5b58d81c7b088b4c648c4365ce7/firebase-storage-common-12.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5126947ec4d18d36a1e1655f37a9bffc/play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5126947ec4d18d36a1e1655f37a9bffc/play-services-gass-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a2b1259d4a32c53a79c8808f30874ad/play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a2b1259d4a32c53a79c8808f30874ad/play-services-tasks-12.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/dd66d81f375591a5b6ec6abca01a0854/play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/dd66d81f375591a5b6ec6abca01a0854/play-services-basement-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:palette-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6671e36554fa4f4cc1da1d954a160a15/palette-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6671e36554fa4f4cc1da1d954a160a15/palette-v7-26.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c1e59d821ea64115e81bcdbbede579c4/play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c1e59d821ea64115e81bcdbbede579c4/play-services-ads-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8cbbb7cd2262ab05c4d265555e6dcfb6/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8cbbb7cd2262ab05c4d265555e6dcfb6/play-services-ads-lite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c41317645daa95d78df7a5d0ce6fa907/play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c41317645daa95d78df7a5d0ce6fa907/play-services-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/532ec424d0e49126a5a8d81e7cc53de6/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/532ec424d0e49126a5a8d81e7cc53de6/play-services-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/92a54e47b120dd57b4bfd3cfcf63f208/play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/92a54e47b120dd57b4bfd3cfcf63f208/play-services-appinvite-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/06319b00bf8cf5a481724de91d61280b/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/06319b00bf8cf5a481724de91d61280b/play-services-auth-api-phone-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c37a0bc42073f5dc3cf8efd062e804e4/play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c37a0bc42073f5dc3cf8efd062e804e4/play-services-auth-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1d37458dbc3b09f34f10c4f971e891b4/play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1d37458dbc3b09f34f10c4f971e891b4/play-services-base-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8c3094e7be38a9ead8c5d07b579ce42e/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8c3094e7be38a9ead8c5d07b579ce42e/play-services-cast-framework-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/42cf3f40cda69f6571a7d6ca23de0c9a/play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/42cf3f40cda69f6571a7d6ca23de0c9a/play-services-cast-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/57d873ef994a06eaf17e65dca09a774e/play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/57d873ef994a06eaf17e65dca09a774e/play-services-basement-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b86424940feaa602cd9248484d1c7ef4/firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b86424940feaa602cd9248484d1c7ef4/firebase-config-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4cb70d51f5cedd0299c77311acb5473c/play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/4cb70d51f5cedd0299c77311acb5473c/play-services-awareness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/81d2cabc3c0f9a63b93897bce4025645/firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/81d2cabc3c0f9a63b93897bce4025645/firebase-crash-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/248ae513d8ab20948eed7156a73bec87/play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/248ae513d8ab20948eed7156a73bec87/play-services-drive-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/da089509d0e0a1e68ece9397765c20e3/play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/da089509d0e0a1e68ece9397765c20e3/play-services-fido-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5c21b051c32dc2aeeef390610319c55e/firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5c21b051c32dc2aeeef390610319c55e/firebase-auth-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/46f7c47714255573bd84d4c04ca2299f/firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/46f7c47714255573bd84d4c04ca2299f/firebase-database-connection-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/85336c5f6b969508406cf6f6e574d867/firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/85336c5f6b969508406cf6f6e574d867/firebase-database-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1bfc053a850a421ccfc68c499a0829cb/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1bfc053a850a421ccfc68c499a0829cb/firebase-dynamic-links-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e6ccc308ed64963465959cf4619f5344/firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e6ccc308ed64963465959cf4619f5344/firebase-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c90871e60e9ae77722d7ebb4d2912361/firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/c90871e60e9ae77722d7ebb4d2912361/firebase-messaging-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e2e9123edd435aabb17b37471e3fc1e0/firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e2e9123edd435aabb17b37471e3fc1e0/firebase-storage-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b855164b0c9fb00018fb07502a539a36/firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b855164b0c9fb00018fb07502a539a36/firebase-storage-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/435153c3447669d4df7cfd4e7c73b477/firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/435153c3447669d4df7cfd4e7c73b477/firebase-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b942566427120f3165f28bc5444e59b3/play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b942566427120f3165f28bc5444e59b3/play-services-fitness-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/77a8144b2cc75b776b9a6116b0fcd69e/play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/77a8144b2cc75b776b9a6116b0fcd69e/play-services-games-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d5fd3821513ccaa3afd3c01ba6da9273/play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d5fd3821513ccaa3afd3c01ba6da9273/play-services-gass-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4f0183dc9c1afbe44d84095c3afb38d/play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4f0183dc9c1afbe44d84095c3afb38d/play-services-gcm-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18898ee51888367cd482baca45c0edd/firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18898ee51888367cd482baca45c0edd/firebase-appindexing-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/bedd9318786f3155ce5d9b9131c726a6/play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/bedd9318786f3155ce5d9b9131c726a6/play-services-identity-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/623d13a600277867200b003aae6d6d7b/play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/623d13a600277867200b003aae6d6d7b/play-services-iid-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1157a28bdb64c9dc009c7458366142e9/play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1157a28bdb64c9dc009c7458366142e9/play-services-instantapps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5e13ef4c698fe507f37bee9983d7fbfb/play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5e13ef4c698fe507f37bee9983d7fbfb/play-services-location-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ca5d3b361cb9a3e3741bd0d020717d44/play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ca5d3b361cb9a3e3741bd0d020717d44/play-services-maps-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/39d5349e9654d7ba764955ccdab76c78/firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/39d5349e9654d7ba764955ccdab76c78/firebase-analytics-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b2753a1fd5aaa584fced032f4021237f/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b2753a1fd5aaa584fced032f4021237f/firebase-analytics-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/772f372e0d8ddc26058ba29020912951/play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/772f372e0d8ddc26058ba29020912951/play-services-nearby-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e177b4d7882ece08686076bf8c952e64/play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/e177b4d7882ece08686076bf8c952e64/play-services-panorama-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/246b5b757b31901e2b68e1f89f1f5b32/play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/246b5b757b31901e2b68e1f89f1f5b32/play-services-places-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4e5974a1251e09985b882cab5214f38/play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b4e5974a1251e09985b882cab5214f38/play-services-plus-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/34f2e58a4b179a1d84e757ce6cdc1cdb/play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/34f2e58a4b179a1d84e757ce6cdc1cdb/play-services-safetynet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7b11e0e56d0b518330c1a82ddd06a1d7/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7b11e0e56d0b518330c1a82ddd06a1d7/play-services-tagmanager-api-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/62f98730115c8997d247901b8c6a5118/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/62f98730115c8997d247901b8c6a5118/play-services-tagmanager-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/26759b672cd12bdaae70b65db1523689/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/26759b672cd12bdaae70b65db1523689/play-services-tagmanager-v4-impl-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/86b3ddf9f7459aee8e2e5579e489babc/play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/86b3ddf9f7459aee8e2e5579e489babc/play-services-tasks-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ad22fc20894f555e5622c42aca1d0fb3/play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ad22fc20894f555e5622c42aca1d0fb3/play-services-vision-common-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a55d8d6e91627b2bb0248f262df877e9/play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/a55d8d6e91627b2bb0248f262df877e9/play-services-vision-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b42d0e4a6d6dbd79c3c1a88a5b22ce2a/play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b42d0e4a6d6dbd79c3c1a88a5b22ce2a/play-services-wallet-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/969b47ef8280295dda91a0dd4024ed88/play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/969b47ef8280295dda91a0dd4024ed88/play-services-wearable-license-12.0.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+		ADDED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+		INJECTED from /home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:11:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/2a6408162ae72b6b50d8ffce4e1e14f0/appcompat-v7-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3a71c362d1ab35e85219f1dacf03e692/animated-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3668f0b1dc2a7f159a8fdfd6f7d7e371/support-vector-drawable-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/36fbeb7794890c37f4a5b4b8f6faa1a0/support-v4-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6bd21d6dc801eae99ce446158e86ccc1/support-media-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc04a640fc6bf8119f9ba7c55644d9b5/support-fragment-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:palette-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6671e36554fa4f4cc1da1d954a160a15/palette-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/6671e36554fa4f4cc1da1d954a160a15/palette-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/0e30707507cb79507e18bf638542515a/support-core-utils-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f0ae345b685fe0fec24a5db27e218391/support-core-ui-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b265fcbfa454d90f6ae775cba880fb8c/support-compat-26.1.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/d1f6178e1684905b477b063b5496deff/play-services-analytics-impl-12.0.1/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/7fee307e8b041d81420659079824ce03/play-services-iid-12.0.1/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.edu.umb.cs443
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5a91c0a923786395475598c82467df23/firebase-analytics-impl-12.0.1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+permission#edu.umb.cs443.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+uses-permission#edu.umb.cs443.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:edu.umb.cs443
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+category#edu.umb.cs443
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:9:13-77
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:26:13-58

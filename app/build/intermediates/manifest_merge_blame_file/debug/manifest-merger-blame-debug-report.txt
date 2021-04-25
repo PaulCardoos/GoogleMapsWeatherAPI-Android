@@ -1,0 +1,384 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="edu.umb.cs443"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:8:5-66
+11-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:8:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:9:5-78
+12-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:10:5-80
+13-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:10:22-78
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:12:5-80
+14-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:12:22-78
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:13:5-78
+15-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:13:22-76
+16
+17    <uses-feature
+17-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:16:5-18:34
+18        android:glEsVersion="0x00020000"
+18-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:17:9-41
+19        android:required="true" />
+19-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:18:9-32
+20
+21    <!-- Optional permission for Analytics to run. -->
+22    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create GCM registration tokens -->
+22-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:27:5-68
+22-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:27:22-65
+23    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+23-->[com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:23:5-82
+23-->[com.google.android.gms:play-services-gcm:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f45039bb29b958c173b33cc6af11a6cd/play-services-gcm-12.0.1/AndroidManifest.xml:23:22-79
+24
+25    <permission
+25-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:28:5-30:47
+26        android:name="edu.umb.cs443.permission.C2D_MESSAGE"
+26-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:29:9-63
+27        android:protectionLevel="signature" />
+27-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:30:9-44
+28
+29    <uses-permission android:name="edu.umb.cs443.permission.C2D_MESSAGE" />
+29-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:32:5-79
+29-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:32:22-76
+30
+31    <application
+31-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:19:5-42:19
+32        android:name="android.support.multidex.MultiDexApplication"
+33        android:allowBackup="true"
+33-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:20:9-35
+34        android:debuggable="true"
+35        android:icon="@drawable/ic_launcher"
+35-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:21:9-45
+36        android:label="@string/app_name"
+36-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:22:9-41
+37        android:testOnly="true"
+38        android:theme="@style/AppTheme" >
+38-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:23:9-40
+39        <activity
+39-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:24:9-32:20
+40            android:name="edu.umb.cs443.MainActivity"
+40-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:25:13-41
+41            android:label="@string/app_name" >
+41-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:26:13-45
+42            <intent-filter>
+42-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:27:13-31:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:28:17-69
+43-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:28:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:30:17-77
+45-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:30:27-74
+46            </intent-filter>
+47        </activity>
+48
+49        <meta-data
+49-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:34:9-36:15
+50            android:name="com.google.android.maps.v2.API_KEY"
+50-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:34:20-69
+51            android:value="AIzaSyAfj1rDRmeuhwyqUSYL94FT12VzIE_zjG8" />
+51-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:35:13-68
+52        <meta-data
+52-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:37:9-39:69
+53            android:name="com.google.android.gms.version"
+53-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:38:13-58
+54            android:value="@integer/google_play_services_version" />
+54-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:39:13-66
+55
+56        <uses-library
+56-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:41:9-88
+57            android:name="org.apache.http.legacy"
+57-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:41:23-60
+58            android:required="false" />
+58-->/home/darkdeer/HW3_base/app/src/main/AndroidManifest.xml:41:61-85
+59
+60        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+60-->[com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:8:9-100
+60-->[com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:8:19-97
+61
+62        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+62-->[com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:10:9-104
+62-->[com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:10:18-101
+63        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+63-->[com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:11:9-93
+63-->[com.google.android.gms:play-services-cast-framework:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/b18e3388f012b83cb3473003aca33535/play-services-cast-framework-12.0.1/AndroidManifest.xml:11:18-90
+64
+65        <meta-data
+65-->[com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:23:9-25:38
+66            android:name="android.support.VERSION"
+66-->[com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:24:13-51
+67            android:value="26.1.0" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+67-->[com.android.support:mediarouter-v7:26.1.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3691427b091df6f445f88f148c1364bd/mediarouter-v7-26.1.0/AndroidManifest.xml:25:13-35
+68        <activity
+68-->[com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:29:9-33:64
+69            android:name="com.google.android.gms.ads.AdActivity"
+69-->[com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:30:13-65
+70            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+70-->[com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:31:13-122
+71            android:exported="false"
+71-->[com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:32:13-37
+72            android:theme="@android:style/Theme.Translucent" />
+72-->[com.google.android.gms:play-services-ads-lite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1fc9db138a704d2b02574e0997173b49/play-services-ads-lite-12.0.1/AndroidManifest.xml:33:13-61
+73
+74        <receiver
+74-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:30:9-34:20
+75            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+75-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:31:13-78
+76            android:enabled="true"
+76-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:32:13-35
+77            android:exported="false" >
+77-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:33:13-37
+78        </receiver>
+79
+80        <service
+80-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:36:9-39:40
+81            android:name="com.google.android.gms.analytics.AnalyticsService"
+81-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:37:13-77
+82            android:enabled="true"
+82-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:38:13-35
+83            android:exported="false" />
+83-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:39:13-37
+84        <service
+84-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:40:9-44:72
+85            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+85-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:41:13-80
+86            android:enabled="true"
+86-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:42:13-35
+87            android:exported="false"
+87-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:43:13-37
+88            android:permission="android.permission.BIND_JOB_SERVICE" />
+88-->[com.google.android.gms:play-services-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/17ac179cb729c3ceeb6496c421aba52e/play-services-analytics-12.0.1/AndroidManifest.xml:44:13-69
+89
+90        <activity
+90-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:25:9-34:20
+91            android:name="com.google.android.gms.appinvite.PreviewActivity"
+91-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:26:13-76
+92            android:exported="true"
+92-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:27:13-36
+93            android:theme="@style/Theme.AppInvite.Preview" >
+93-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:28:13-59
+94            <intent-filter>
+94-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:29:13-33:29
+95                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+95-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:30:17-90
+95-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:30:25-87
+96
+97                <category android:name="android.intent.category.DEFAULT" />
+97-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:32:17-76
+97-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:32:27-73
+98            </intent-filter>
+99        </activity>
+100        <activity
+100-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:23:9-27:75
+101            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+101-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:24:13-93
+102            android:excludeFromRecents="true"
+102-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:25:13-46
+103            android:exported="false"
+103-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:26:13-37
+104            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+104-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:27:13-72
+105        <!--
+106            Service handling Google Sign-In user revocation. For apps that do not integrate with
+107            Google Sign-In, this service will never be started.
+108        -->
+109        <service
+109-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:33:9-36:110
+110            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+110-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:34:13-89
+111            android:exported="true"
+111-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:35:13-36
+112            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+112-->[com.google.android.gms:play-services-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff20ccc0424dcaff0bf5ca55359e96fa/play-services-auth-12.0.1/AndroidManifest.xml:36:13-107
+113
+114        <activity
+114-->[com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:23:9-29:75
+115            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+115-->[com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:24:13-85
+116            android:excludeFromRecents="true"
+116-->[com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:25:13-46
+117            android:exported="true"
+117-->[com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:26:13-36
+118            android:launchMode="singleInstance"
+118-->[com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:27:13-48
+119            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+119-->[com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:28:13-102
+120            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+120-->[com.google.firebase:firebase-auth:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/ff4c43429029e06eb263de1d38d9269b/firebase-auth-12.0.1/AndroidManifest.xml:29:13-72
+121        <activity
+121-->[com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:23:9-26:75
+122            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+122-->[com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:24:13-79
+123            android:exported="false"
+123-->[com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:25:13-37
+124            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+124-->[com.google.android.gms:play-services-base:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/8524fd7e17eef4d0ef254018c8b27a03/play-services-base-12.0.1/AndroidManifest.xml:26:13-72
+125        <!--
+126             FirebaseMessagingService performs security checks at runtime,
+127             no need for explicit permissions despite exported="true"
+128        -->
+129        <service
+129-->[com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:28:9-34:19
+130            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+130-->[com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:29:13-82
+131            android:exported="true" >
+131-->[com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:30:13-36
+132            <intent-filter android:priority="-500" >
+132-->[com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:31:13-33:29
+132-->[com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:31:28-51
+133                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+133-->[com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:32:17-78
+133-->[com.google.firebase:firebase-messaging:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/cc7624affc67ed8f20e941cee433e99a/firebase-messaging-12.0.1/AndroidManifest.xml:32:25-75
+134            </intent-filter>
+135        </service>
+136        <service
+136-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:27:9-30:40
+137            android:name="com.google.android.gms.tagmanager.TagManagerService"
+137-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:28:13-79
+138            android:enabled="true"
+138-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:29:13-35
+139            android:exported="false" />
+139-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:30:13-37
+140
+141        <activity
+141-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:32:9-44:20
+142            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+142-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:33:13-87
+143            android:exported="true"
+143-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:34:13-36
+144            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+144-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:35:13-37
+145            <intent-filter>
+145-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:36:13-43:29
+146                <data android:scheme="tagmanager.c.edu.umb.cs443" />
+146-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:17-72
+146-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:37:23-69
+147
+148                <action android:name="android.intent.action.VIEW" />
+148-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:17-69
+148-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:39:25-66
+149
+150                <category android:name="android.intent.category.DEFAULT" />
+150-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:32:17-76
+150-->[com.google.android.gms:play-services-appinvite:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/1709aae3c6a0afb1534fba1f0c95bcce/play-services-appinvite-12.0.1/AndroidManifest.xml:32:27-73
+151                <category android:name="android.intent.category.BROWSABLE" />
+151-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:17-78
+151-->[com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/f9cd39f032e05d48d752556bdeaa3edb/play-services-tagmanager-api-12.0.1/AndroidManifest.xml:42:27-75
+152            </intent-filter>
+153        </activity>
+154
+155        <receiver
+155-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:28:9-32:20
+156            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+156-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:29:13-85
+157            android:enabled="true"
+157-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:30:13-35
+158            android:exported="false" >
+158-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:31:13-37
+159        </receiver>
+160        <receiver
+160-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:33:9-41:20
+161            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+161-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:34:13-100
+162            android:enabled="true"
+162-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:35:13-35
+163            android:exported="true"
+163-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:36:13-36
+164            android:permission="android.permission.INSTALL_PACKAGES" >
+164-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:37:13-69
+165            <intent-filter>
+165-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:38:13-40:29
+166                <action android:name="com.android.vending.INSTALL_REFERRER" />
+166-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:39:17-79
+166-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:39:25-76
+167            </intent-filter>
+168        </receiver>
+169
+170        <service
+170-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:43:9-46:40
+171            android:name="com.google.android.gms.measurement.AppMeasurementService"
+171-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:44:13-84
+172            android:enabled="true"
+172-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:45:13-35
+173            android:exported="false" />
+173-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:46:13-37
+174        <service
+174-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:47:9-51:72
+175            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+175-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:48:13-87
+176            android:enabled="true"
+176-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:49:13-35
+177            android:exported="false"
+177-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:50:13-37
+178            android:permission="android.permission.BIND_JOB_SERVICE" />
+178-->[com.google.firebase:firebase-analytics:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/5d9bebb1cef20a921de4b7e4ad2c805d/firebase-analytics-12.0.1/AndroidManifest.xml:51:13-69
+179
+180        <receiver
+180-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:35:9-44:20
+181            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+181-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:36:13-78
+182            android:exported="true"
+182-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:37:13-36
+183            android:permission="com.google.android.c2dm.permission.SEND" >
+183-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:38:13-73
+184            <intent-filter>
+184-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:39:13-43:29
+185                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+185-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:40:17-81
+185-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:40:25-78
+186
+187                <category android:name="edu.umb.cs443" />
+187-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:42:17-61
+187-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:42:27-58
+188            </intent-filter>
+189        </receiver>
+190        <!--
+191             FirebaseInstanceIdService performs security checks at runtime,
+192             no need for explicit permissions despite exported="true"
+193        -->
+194        <service
+194-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:50:9-56:19
+195            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+195-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:51:13-77
+196            android:exported="true" >
+196-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:52:13-36
+197            <intent-filter android:priority="-500" >
+197-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:53:13-55:29
+197-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:53:28-51
+198                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+198-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:54:17-80
+198-->[com.google.firebase:firebase-iid:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/3338745d4dd5f561beca3e41a0eb4876/firebase-iid-12.0.1/AndroidManifest.xml:54:25-77
+199            </intent-filter>
+200        </service>
+201
+202        <provider
+202-->[com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:8:9-12:39
+203            android:name="com.google.firebase.provider.FirebaseInitProvider"
+203-->[com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:9:13-77
+204            android:authorities="edu.umb.cs443.firebaseinitprovider"
+204-->[com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:10:13-72
+205            android:exported="false"
+205-->[com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:11:13-37
+206            android:initOrder="100" />
+206-->[com.google.firebase:firebase-common:12.0.1] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/faf46834399b486efc407239301496a3/firebase-common-12.0.1/AndroidManifest.xml:12:13-36
+207
+208        <meta-data
+208-->[android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:25:9-27:47
+209            android:name="android.arch.lifecycle.VERSION"
+209-->[android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:26:13-58
+210            android:value="27.0.0-SNAPSHOT" />
+210-->[android.arch.lifecycle:runtime:1.0.0] /home/darkdeer/.gradle/caches/transforms-2/files-2.1/016519dd5dae03a0fb2149978231920e/runtime-1.0.0/AndroidManifest.xml:27:13-44
+211    </application>
+212
+213</manifest>

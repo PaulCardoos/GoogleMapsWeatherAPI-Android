@@ -1,0 +1,80 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C5C1C1"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/search_bar"
+            android:layout_gravity="right"
+            android:layout_toRightOf="@+id/search_bar"
+            android:onClick="getWeatherInfo"
+            android:text="@string/button_text" />
+
+        <EditText
+            android:id="@+id/search_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="right"
+            android:ems="10"
+            android:hint="Enter a city" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/forecastImage"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_alignBottom="@+id/temperatureTxt"
+            android:layout_gravity="center_horizontal"
+            android:layout_toRightOf="@+id/temperatureTxt"
+            android:paddingLeft="10dp" />
+
+        <TextView
+            android:id="@+id/temperatureTxt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NA"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="50dp" />
+
+    </RelativeLayout>
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="300dip" />
+
+
+    <!--
+  map:cameraBearing="112.5"
+  map:cameraTargetLat="42.314083"
+  map:cameraTargetLng="-71.037929"
+  map:cameraTilt="30"
+  map:cameraZoom="13"
+  map:mapType="normal"
+  map:uiCompass="false"
+  map:uiRotateGestures="true"
+  map:uiScrollGestures="false"
+  map:uiTiltGestures="true"
+  map:uiZoomControls="false"
+  map:uiZoomGestures="true"/>
+-->
+
+</LinearLayout>
