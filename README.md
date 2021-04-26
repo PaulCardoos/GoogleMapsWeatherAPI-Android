@@ -21,8 +21,8 @@ new york, us
 london,france
 beirut,lebanon
 ```
-<img src="imgs/Boston_app.jpg>
-<img src="imgs/GazaStrip_app.jpg>
+<img src="/imgs/Boston_app.jpg" height="500rem">
+<img src="/imgs/GazaStrip_app.jpg" height="500rem">
 
 
 
