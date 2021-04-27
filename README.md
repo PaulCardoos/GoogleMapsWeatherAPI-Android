@@ -29,7 +29,7 @@ beirut,lebanon
 ```
 git clone https://github.com/PaulCardoos/GoogleMapsWeatherAPI-Android.git
 ```
-After you clone the open simply open the application in Android Studio and run it on an emulator or your device. You can connect a phone to your computer, enable devoloper mode and execute the code via Android Studio.
+After you clone the repository simply open the application in Android Studio and run it on an emulator or your device. You can connect a phone to your computer, enable devoloper mode and execute the code via Android Studio.
 
 This application was physically tested on a Samsung Galaxy S9+. 
 
